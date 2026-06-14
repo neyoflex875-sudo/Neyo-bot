@@ -68,7 +68,7 @@
 </p>
 
 <p align="center">
-  <Suivre la chaîne NEYO-SMD sur WhatsApp  : https://whatsapp.com/channel/0029VbDDxkRKGGGCdKonVR1l ">
+  < : https://whatsapp.com/channel/0029VbDDxkRKGGGCdKonVR1l ">
     <img src="https://img.shields.io/badge/JOIN%20OFFICIAL%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="500" height="70"/>
   </a>
 </p>
