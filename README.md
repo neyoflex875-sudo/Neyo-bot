@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="15px">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=85&pause=400&color=00FFFF&vCenter=true&center=true&width=1000&height=180&lines=🚀+FLEX-MD-V12+ULTRON;⚡+THE+FUTURE+OF+WA+BOTS;💎+PREMIUM+VERSION+LIVE;🔥+DEVELOPED+BY+KAMRAN+MD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=85&pause=400&color=00FFFF&vCenter=true&center=true&width=1000&height=180&lines=🚀+FLEX-MD-V12+ULTRON;⚡+THE+FUTURE+OF+WA+BOTS;💎+PREMIUM+VERSION+LIVE;🔥+DEVELOPED+BY+NEYO+MD" alt="Typing SVG" />
 </a>
 
 <div style="padding: 15px; background: linear-gradient(90deg, #FF00FF, #00FFFF, #FF00FF); border-radius: 50px; display: inline-block; box-shadow: 0 0 40px #FF00FF;">
@@ -138,7 +138,8 @@
 | **SERVER 13** | [🚀 DEPLOY NOW](https://mini-new-13-a1b18663a32e.herokuapp.com/) | `ONLINE` |
 | **SERVER 14** | [🚀 DEPLOY NOW](https://mini-new-14-ff9f7d923371.herokuapp.com/) | `ONLINE` |
 | **SERVER 15** | [🚀 DEPLOY NOW](https://mini-new-15-1e0037b2c1cd.herokuapp.com/) | `ONLINE` |
-
+| **SEEVER 16** | [🚀 DEPLOY                          | `ONLINE` |
+NOW](https://mini-new-16-160038b2c1cd.herokuapp.com/) | `ONLINE` |
 </div>
 
 <br>
